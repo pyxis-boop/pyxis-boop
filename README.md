@@ -1,11 +1,8 @@
-### shipping AI infra on @base
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pyxis-boop/pyxis-protocol/main/public/banner.png" alt="shipping AI infra on @base" width="100%" />
+</p>
 
-```
-                       ◇
-              the compass points
-              wherever inference
-                  needs to go
-```
+### shipping AI infra on @base
 
 - writing contracts that punish liars and pay challengers
 - building routers that don't custody anything
