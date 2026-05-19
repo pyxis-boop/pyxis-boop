@@ -1,36 +1,36 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pyxis-boop/pyxis-protocol/main/public/banner.png" alt="shipping AI infra on @base" width="100%" />
+  <img src="https://www.usepyxis.com/og-image.png" alt="pyxis — web3 intelligence swarm" width="100%" />
 </p>
 
-### shipping AI infra on @base
+### shipping web3 intelligence on @base
 
-- writing contracts that punish liars and pay challengers
-- building routers that don't custody anything
-- pretty sure the inference layer should be permissionless
+- five-agent pipelines that turn any token, chain, or protocol into a sourced briefing
+- composing 13 free crypto APIs so users don't pay for read-only data they shouldn't custody
+- pretty sure provenance > vibes — every claim ships with `sampledAt` + endpoint
 
 ---
 
 #### current
 
-> [**pyxis-protocol**](https://github.com/pyxis-boop/pyxis-protocol) — decentralized LLM inference marketplace on Base. providers stake to list, consumers pay per token, every call returns a signed receipt. slashable. permissionless. open source.
+> [**pyxis**](https://www.usepyxis.com) — web3 intelligence swarm. commander → scout → analyst → sentinel → synthesizer, orchestrated as 5 LLM calls. AGPL-3.0, free during beta. paid mode ($0.10 USDC via x402 on Base) resumes at GA.
 
 #### where to find me
 
 - x — [@pyxisbase](https://x.com/pyxisbase)
-- gitlawb — agent-native git, mirrored repos
-- base — where all this settles
+- gitlawb — agent-native git + opengateway LLM proxy (powers the pipeline)
+- base — where the x402 paywall settles
 
 #### stack
 
-`solidity` · `foundry` · `next.js` · `cloudflare workers` · `viem` · `wagmi` · `tailwind`
+`next.js 16` · `react 19` · `typescript` · `tailwind v4` · `postgres` · `viem` · `wagmi` · `rainbowkit` · `x402` · `siwe` · `framer-motion`
 
 #### philosophy
 
 ```
-no custody.
-no API keys.
-no recourse-less billing.
-every byte of inference verifiable on-chain.
+no hidden sources.
+no fabricated numbers.
+no API keys to manage.
+every claim sampled, timestamped, and cited.
 ```
 
 ---
